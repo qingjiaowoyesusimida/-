@@ -1,7 +1,8 @@
+__all__ = ['chichi']
 def dog():
-	print('旺旺')
+	print('wangwang')
 def mao():
-	print('吃吃')
+	print('chichi')
 if __name__ == '__main__':
 	dog()
 	mao()
